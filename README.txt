@@ -4,6 +4,7 @@
 
 ./snowglobes/ contains the smearing files and post-smearing efficiencies used to run IceCubev1.
 
+./snowglobes/doc contains a design document explaining how these experiment files were generated.
 
 ## Detector configurations
 
